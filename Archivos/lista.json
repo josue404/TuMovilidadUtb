@@ -1,0 +1,7 @@
+[
+    { "id": 1000, "nombre": "Josue Fadul", "ci": 80073100001, "area": "Ing de sistemas", "cargo": "Estudiante" },
+    { "id": 10011, "nombre": "Edwin puertas", "ci": 81081100002, "area": "Profesor utb", "cargo": "Profesor autentico" },
+    { "id": 10022, "nombre": "Maycol casadiegos", "ci": 80030100003, "area": "Ing de sistemas", "cargo": "estudiante" },
+    { "id": 10033, "nombre": "Daniel pajaro", "ci": 79091900004, "area": "Ing de sistemas", "cargo": "practicante" },
+    { "id": 10043, "nombre": "Cristiano ronaldo", "ci": 80060500005, "area": "Futbolista", "cargo": "Del Mun United" }
+]
